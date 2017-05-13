@@ -1,0 +1,10 @@
+/* #4 Style one class to define the height and width, the other to define background-color.*/
+
+.class1 {
+	height: 100px;
+	width: 70%;
+}
+
+.class2 {
+	background-color: brown;
+}
